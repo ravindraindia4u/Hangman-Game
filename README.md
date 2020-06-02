@@ -1,5 +1,4 @@
-                                                            Hangman-Game
-----------------------------------------------------------------------------------------------------------------------------------------------
+							Hangman-Game							
 Hangman is a word guessing game, where the player thinks of a word tries to guess it by suggesting letters within a certain number of guesses. 
 
 The word to guess is represented by a row of dashes, representing each letter of the word. If the guessing player suggests a letter which occurs
